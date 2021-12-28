@@ -109,7 +109,7 @@ np.ones(10, dtype='int16')
 # 2. NumPy 객체 이용
 np.ones(10, dtype=np.int16)
 ```
-
+| 자료형 | 설명 |
 | bool_ | bool값 (1바이트) |
 | --- | --- |
 | int_ | 기본 정수 타입 (C의 long과 동일하다. 주로 int32 또는 int64) |
